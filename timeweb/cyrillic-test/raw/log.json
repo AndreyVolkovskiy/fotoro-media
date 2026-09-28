@@ -1,0 +1,252 @@
+{
+  "z-image-turbo__t1": {
+    "ok": true,
+    "ms": 3154,
+    "bytes": 1139984
+  },
+  "gpt-image-2__t1": {
+    "ok": true,
+    "ms": 95736,
+    "bytes": 1227299
+  },
+  "gpt-image-2__t2": {
+    "ok": true,
+    "ms": 107049,
+    "bytes": 2047049
+  },
+  "gpt-image-2__t3": {
+    "ok": true,
+    "ms": 99618,
+    "bytes": 1845597
+  },
+  "nano-banana-pro__t1": {
+    "ok": true,
+    "ms": 18192,
+    "bytes": 1209869
+  },
+  "nano-banana-pro__t2": {
+    "ok": true,
+    "ms": 18060,
+    "bytes": 2978134
+  },
+  "nano-banana-pro__t3": {
+    "ok": true,
+    "ms": 17025,
+    "bytes": 1520240
+  },
+  "nano-banana-2__t1": {
+    "ok": true,
+    "ms": 10850,
+    "bytes": 1519590
+  },
+  "nano-banana-2__t2": {
+    "ok": true,
+    "ms": 15459,
+    "bytes": 2848313
+  },
+  "nano-banana-2__t3": {
+    "ok": true,
+    "ms": 12902,
+    "bytes": 2412252
+  },
+  "flux-2-pro__t1": {
+    "ok": true,
+    "ms": 8577,
+    "bytes": 41724
+  },
+  "flux-2-pro__t2": {
+    "ok": true,
+    "ms": 11306,
+    "bytes": 160325
+  },
+  "flux-2-pro__t3": {
+    "ok": true,
+    "ms": 11589,
+    "bytes": 93190
+  },
+  "ideogram-v4__t1": {
+    "ok": true,
+    "ms": 20303,
+    "bytes": 37631
+  },
+  "ideogram-v4__t2": {
+    "ok": true,
+    "ms": 21180,
+    "bytes": 152894
+  },
+  "ideogram-v4__t3": {
+    "ok": true,
+    "ms": 20986,
+    "bytes": 109615
+  },
+  "recraft-v4__t1": {
+    "ok": true,
+    "ms": 14038,
+    "bytes": 53748
+  },
+  "recraft-v4__t2": {
+    "ok": true,
+    "ms": 16066,
+    "bytes": 178308
+  },
+  "recraft-v4__t3": {
+    "ok": true,
+    "ms": 15082,
+    "bytes": 186630
+  },
+  "seedream-v5-pro__t1": {
+    "ok": true,
+    "ms": 21788,
+    "bytes": 88671
+  },
+  "seedream-v5-pro__t2": {
+    "ok": true,
+    "ms": 28794,
+    "bytes": 209820
+  },
+  "seedream-v5-pro__t3": {
+    "ok": true,
+    "ms": 20998,
+    "bytes": 185336
+  },
+  "grok-imagine-image-2-0__t1": {
+    "ok": true,
+    "ms": 56846,
+    "bytes": 191409
+  },
+  "grok-imagine-image-2-0__t2": {
+    "ok": true,
+    "ms": 58728,
+    "bytes": 529561
+  },
+  "grok-imagine-image-2-0__t3": {
+    "ok": true,
+    "ms": 60687,
+    "bytes": 444660
+  },
+  "z-image-turbo__t2": {
+    "ok": true,
+    "ms": 3505,
+    "bytes": 2421805
+  },
+  "z-image-turbo__t3": {
+    "ok": true,
+    "ms": 3317,
+    "bytes": 1022522
+  },
+  "qwen-image-3__t1": {
+    "ok": true,
+    "ms": 7827,
+    "bytes": 925580
+  },
+  "qwen-image-3__t2": {
+    "ok": true,
+    "ms": 7261,
+    "bytes": 2660368
+  },
+  "qwen-image-3__t3": {
+    "ok": true,
+    "ms": 6419,
+    "bytes": 1172617
+  },
+  "gpt-image-2__t4": {
+    "ok": true,
+    "ms": 102567,
+    "bytes": 1747338
+  },
+  "gpt-image-2__t5": {
+    "ok": true,
+    "ms": 98930,
+    "bytes": 1574508
+  },
+  "nano-banana-pro__t4": {
+    "ok": true,
+    "ms": 18024,
+    "bytes": 2654616
+  },
+  "nano-banana-pro__t5": {
+    "ok": true,
+    "ms": 20807,
+    "bytes": 2734986
+  },
+  "nano-banana-2__t4": {
+    "ok": true,
+    "ms": 12388,
+    "bytes": 2826404
+  },
+  "nano-banana-2__t5": {
+    "ok": true,
+    "ms": 12430,
+    "bytes": 2718935
+  },
+  "flux-2-pro__t4": {
+    "ok": true,
+    "ms": 10268,
+    "bytes": 102150
+  },
+  "flux-2-pro__t5": {
+    "ok": true,
+    "ms": 9562,
+    "bytes": 57006
+  },
+  "ideogram-v4__t4": {
+    "ok": true,
+    "ms": 27811,
+    "bytes": 142524
+  },
+  "ideogram-v4__t5": {
+    "ok": true,
+    "ms": 24782,
+    "bytes": 80703
+  },
+  "recraft-v4__t4": {
+    "ok": true,
+    "ms": 13683,
+    "bytes": 132284
+  },
+  "recraft-v4__t5": {
+    "ok": true,
+    "ms": 11787,
+    "bytes": 204640
+  },
+  "seedream-v5-pro__t4": {
+    "ok": true,
+    "ms": 21838,
+    "bytes": 168686
+  },
+  "seedream-v5-pro__t5": {
+    "ok": true,
+    "ms": 15637,
+    "bytes": 75036
+  },
+  "grok-imagine-image-2-0__t4": {
+    "ok": true,
+    "ms": 43911,
+    "bytes": 416043
+  },
+  "grok-imagine-image-2-0__t5": {
+    "ok": true,
+    "ms": 48005,
+    "bytes": 216570
+  },
+  "z-image-turbo__t4": {
+    "ok": true,
+    "ms": 3571,
+    "bytes": 1996728
+  },
+  "z-image-turbo__t5": {
+    "ok": true,
+    "ms": 3701,
+    "bytes": 1338592
+  },
+  "qwen-image-3__t4": {
+    "ok": true,
+    "ms": 7183,
+    "bytes": 1975662
+  },
+  "qwen-image-3__t5": {
+    "ok": true,
+    "ms": 7121,
+    "bytes": 1525603
+  }
+}
